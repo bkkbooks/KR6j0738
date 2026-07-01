@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0738/v1
+canonical_location: https://kanripo.org/bkk/KR6j0738/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 觀自在菩薩如意輪呪課法
+  identifiers:
+    alt_id:
+    - T46n1952
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1952.xml
+    old_id: T46n1952
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0738_000.yaml, hash: 'sha256:835e286aba6ee6bac818418d2bbe83dce69c048e406d6fb02b53e68770cbf547'}
+  - {seq: 1, filename: KR6j0738_001.yaml, hash: 'sha256:6c1a9bc508599a515810b807ec63f2f46fc1ed103392da986a686dde5f5d66e3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0738_001.markers.yaml, hash: 'sha256:ec21e10cc15e0fca58d2a4a1cda80561b2dc741eea86402a3d4c0e2d39acbcbd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0738_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3053
+  label: 觀自在菩薩如意輪呪課法并序
+  type: juan
+  level: 1
+hash: sha256:735b8dc0259ab3a59988c4e8536e91fb466f6c1313241ea02e0cf2bc1f6ba0fa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

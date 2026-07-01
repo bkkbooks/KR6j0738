@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0738/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩如意輪呪課法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1952.xml
+    old_id: T46n1952
+hash: sha256:835e286aba6ee6bac818418d2bbe83dce69c048e406d6fb02b53e68770cbf547
